@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/eric/github/protoboard-module/protoboard-single/protoboard-single.sch)
-    (date "Mon 08 Sep 2014 08:47:25 PM PDT")
+    (date "Mon 08 Sep 2014 09:00:32 PM PDT")
     (tool "Eeschema (2014-08-29 BZR 5106)-product"))
   (components
     (comp (ref J1)
@@ -93,7 +93,12 @@
       (footprint parts:1x10)
       (libsource (lib parts) (part MODULE_HEADER))
       (sheetpath (names /) (tstamps /))
-      (tstamp 540E87DE)))
+      (tstamp 540E87DE))
+    (comp (ref SILK1)
+      (value logo)
+      (libsource (lib parts) (part logo))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 540E8D3F)))
   (libparts
     (libpart (lib parts) (part MODULE_HEADER)
       (fields
@@ -109,7 +114,11 @@
         (pin (num 7) (name MOSI) (type BiDi))
         (pin (num 8) (name G1/TX) (type BiDi))
         (pin (num 9) (name G2/RX) (type BiDi))
-        (pin (num 10) (name G3) (type BiDi)))))
+        (pin (num 10) (name G3) (type BiDi))))
+    (libpart (lib parts) (part logo)
+      (fields
+        (field (name Reference) SILK)
+        (field (name Value) logo))))
   (libraries
     (library (logical parts)
       (uri /home/eric/github/kicad-resources/parts.lib)))
