@@ -1,0 +1,10 @@
+Cmp-Mod V01 Created by Cvpcb (2014-08-29 BZR 5106)-product   date = Mon 08 Sep 2014 07:56:35 PM PDT
+
+BeginCmp
+TimeStamp = /540E6C30;
+Reference = J1;
+ValeurCmp = MODULE_HEADER;
+IdModule  = parts:MODULE_HEADER_MODULE;
+EndCmp
+
+EndListe
