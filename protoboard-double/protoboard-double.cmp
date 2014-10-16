@@ -1,4 +1,11 @@
-Cmp-Mod V01 Created by Cvpcb (2014-08-29 BZR 5106)-product   date = Thu 16 Oct 2014 02:47:33 PM PDT
+Cmp-Mod V01 Created by Cvpcb (2014-08-29 BZR 5106)-product   date = Thu 16 Oct 2014 03:53:38 PM PDT
+
+BeginCmp
+TimeStamp = /54409983;
+Reference = C1;
+ValeurCmp = C;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
 
 BeginCmp
 TimeStamp = /544047F0;
@@ -145,6 +152,13 @@ TimeStamp = /54406F52;
 Reference = P19;
 ValeurCmp = CONN_01X22;
 IdModule  = parts:1x22;
+EndCmp
+
+BeginCmp
+TimeStamp = /54404D2A;
+Reference = SILK1;
+ValeurCmp = logo;
+IdModule  = parts:TESSEL-HEXAGON-LOGO;
 EndCmp
 
 EndListe

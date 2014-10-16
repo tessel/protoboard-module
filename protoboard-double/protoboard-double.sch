@@ -316,4 +316,124 @@ F 3 "" H 3100 1950 60  0000 C CNN
 	1    3100 1950
 	1    0    0    -1  
 $EndComp
+Connection ~ 1700 900 
+Connection ~ 1700 1000
+Connection ~ 1700 1100
+Connection ~ 1700 1200
+Connection ~ 1700 1300
+Connection ~ 1700 1400
+Connection ~ 1700 1500
+Connection ~ 1700 1600
+Connection ~ 1700 1700
+Connection ~ 1700 1800
+Connection ~ 1700 2100
+Connection ~ 1700 2200
+Connection ~ 1700 2300
+Connection ~ 1700 2400
+Connection ~ 1700 2500
+Connection ~ 1700 2600
+Connection ~ 1700 2700
+Connection ~ 1700 2800
+Connection ~ 1700 2900
+Connection ~ 1700 3000
+Connection ~ 2300 900 
+Connection ~ 2300 1000
+Connection ~ 2300 1100
+Connection ~ 2300 1200
+Connection ~ 2300 1300
+Connection ~ 2300 1400
+Connection ~ 2300 1500
+Connection ~ 2300 1600
+Connection ~ 2300 1700
+Connection ~ 2300 1800
+Connection ~ 2300 2100
+Connection ~ 2300 2200
+Connection ~ 2300 2300
+Connection ~ 2300 2400
+Connection ~ 2300 2500
+Connection ~ 2300 2600
+Connection ~ 2300 2700
+Connection ~ 2300 2800
+Connection ~ 2300 2900
+Connection ~ 2300 3000
+Connection ~ 2900 3000
+Connection ~ 2900 2900
+Connection ~ 2900 2800
+Connection ~ 2900 2700
+Connection ~ 2900 2600
+Connection ~ 2900 2500
+Connection ~ 2900 2400
+Connection ~ 2900 2300
+Connection ~ 2900 2200
+Connection ~ 2900 2100
+Connection ~ 2900 1800
+Connection ~ 2900 1700
+Connection ~ 2900 1600
+Connection ~ 2900 1500
+Connection ~ 2900 1400
+Connection ~ 2900 1300
+Connection ~ 2900 1200
+Connection ~ 2900 1100
+Connection ~ 2900 1000
+Connection ~ 2900 900 
+$Comp
+L C C1
+U 1 1 54409983
+P 1650 3350
+F 0 "C1" H 1650 3450 40  0000 L CNN
+F 1 "C" H 1656 3265 40  0000 L CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x02" H 1688 3200 30  0001 C CNN
+F 3 "" H 1650 3350 60  0000 C CNN
+	1    1650 3350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1650 3150 1650 2100
+Connection ~ 1650 2100
+Wire Wire Line
+	1650 3550 1500 3550
+Wire Wire Line
+	1500 3550 1500 2200
+Connection ~ 1500 2200
+Wire Wire Line
+	1700 1900 2900 1900
+Wire Wire Line
+	2900 2000 1700 2000
+Connection ~ 2900 1900
+Connection ~ 2900 2000
+Connection ~ 2300 2000
+Connection ~ 2300 1900
+Connection ~ 1700 1900
+Connection ~ 1700 2000
+Connection ~ 1400 900 
+Connection ~ 1400 1000
+Connection ~ 1400 1100
+Connection ~ 1400 1200
+Connection ~ 1400 1300
+Connection ~ 1400 1400
+Connection ~ 1400 1500
+Connection ~ 1400 1600
+Connection ~ 1400 1700
+Connection ~ 1400 1800
+Connection ~ 1400 2100
+Connection ~ 1400 2200
+Connection ~ 1400 2300
+Connection ~ 1400 2400
+Connection ~ 1400 2500
+Connection ~ 1400 2600
+Connection ~ 1400 2700
+Connection ~ 1400 2800
+Connection ~ 1400 2900
+Connection ~ 1400 3000
+$Comp
+L logo SILK1
+U 1 1 54404D2A
+P 4750 1900
+F 0 "SILK1" H 4750 1950 60  0000 C CNN
+F 1 "logo" H 4750 1850 60  0000 C CNN
+F 2 "parts:TESSEL-HEXAGON-LOGO" H 4750 1900 60  0001 C CNN
+F 3 "" H 4750 1900 60  0000 C CNN
+	1    4750 1900
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
