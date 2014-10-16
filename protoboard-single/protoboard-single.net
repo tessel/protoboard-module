@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/eric/github/protoboard-module/protoboard-single/protoboard-single.sch)
-    (date "Mon 08 Sep 2014 09:00:32 PM PDT")
+    (date "Fri 03 Oct 2014 01:03:35 PM PDT")
     (tool "Eeschema (2014-08-29 BZR 5106)-product"))
   (components
     (comp (ref J1)
@@ -96,6 +96,7 @@
       (tstamp 540E87DE))
     (comp (ref SILK1)
       (value logo)
+      (footprint parts:TESSEL-HEXAGON-LOGO)
       (libsource (lib parts) (part logo))
       (sheetpath (names /) (tstamps /))
       (tstamp 540E8D3F)))

@@ -1,0 +1,150 @@
+Cmp-Mod V01 Created by Cvpcb (2014-08-29 BZR 5106)-product   date = Thu 16 Oct 2014 02:47:33 PM PDT
+
+BeginCmp
+TimeStamp = /544047F0;
+Reference = J1;
+ValeurCmp = MODULE_HEADER;
+IdModule  = parts:MODULE_HEADER_MODULE;
+EndCmp
+
+BeginCmp
+TimeStamp = /544051C1;
+Reference = J2;
+ValeurCmp = MODULE_HEADER;
+IdModule  = parts:MODULE_HEADER_MODULE;
+EndCmp
+
+BeginCmp
+TimeStamp = /54405F5C;
+Reference = P1;
+ValeurCmp = CONN_01X22;
+IdModule  = parts:1x22;
+EndCmp
+
+BeginCmp
+TimeStamp = /5440600F;
+Reference = P2;
+ValeurCmp = CONN_01X22;
+IdModule  = parts:1x22;
+EndCmp
+
+BeginCmp
+TimeStamp = /5440732D;
+Reference = P3;
+ValeurCmp = CONN_01X22;
+IdModule  = parts:1x22;
+EndCmp
+
+BeginCmp
+TimeStamp = /544061BD;
+Reference = P4;
+ValeurCmp = CONN_01X22;
+IdModule  = parts:1x22;
+EndCmp
+
+BeginCmp
+TimeStamp = /544061C3;
+Reference = P5;
+ValeurCmp = CONN_01X22;
+IdModule  = parts:1x22;
+EndCmp
+
+BeginCmp
+TimeStamp = /54407333;
+Reference = P6;
+ValeurCmp = CONN_01X22;
+IdModule  = parts:1x22;
+EndCmp
+
+BeginCmp
+TimeStamp = /54406623;
+Reference = P7;
+ValeurCmp = CONN_01X22;
+IdModule  = parts:1x22;
+EndCmp
+
+BeginCmp
+TimeStamp = /54406629;
+Reference = P8;
+ValeurCmp = CONN_01X22;
+IdModule  = parts:1x22;
+EndCmp
+
+BeginCmp
+TimeStamp = /54407339;
+Reference = P9;
+ValeurCmp = CONN_01X22;
+IdModule  = parts:1x22;
+EndCmp
+
+BeginCmp
+TimeStamp = /5440662F;
+Reference = P10;
+ValeurCmp = CONN_01X22;
+IdModule  = parts:1x22;
+EndCmp
+
+BeginCmp
+TimeStamp = /54406635;
+Reference = P11;
+ValeurCmp = CONN_01X22;
+IdModule  = parts:1x22;
+EndCmp
+
+BeginCmp
+TimeStamp = /54406F28;
+Reference = P12;
+ValeurCmp = CONN_01X22;
+IdModule  = parts:1x22;
+EndCmp
+
+BeginCmp
+TimeStamp = /54406F2E;
+Reference = P13;
+ValeurCmp = CONN_01X22;
+IdModule  = parts:1x22;
+EndCmp
+
+BeginCmp
+TimeStamp = /54406F34;
+Reference = P14;
+ValeurCmp = CONN_01X22;
+IdModule  = parts:1x22;
+EndCmp
+
+BeginCmp
+TimeStamp = /54406F3A;
+Reference = P15;
+ValeurCmp = CONN_01X22;
+IdModule  = parts:1x22;
+EndCmp
+
+BeginCmp
+TimeStamp = /54406F40;
+Reference = P16;
+ValeurCmp = CONN_01X22;
+IdModule  = parts:1x22;
+EndCmp
+
+BeginCmp
+TimeStamp = /54406F46;
+Reference = P17;
+ValeurCmp = CONN_01X22;
+IdModule  = parts:1x22;
+EndCmp
+
+BeginCmp
+TimeStamp = /54406F4C;
+Reference = P18;
+ValeurCmp = CONN_01X22;
+IdModule  = parts:1x22;
+EndCmp
+
+BeginCmp
+TimeStamp = /54406F52;
+Reference = P19;
+ValeurCmp = CONN_01X22;
+IdModule  = parts:1x22;
+EndCmp
+
+EndListe
