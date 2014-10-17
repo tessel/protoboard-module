@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-08-29 BZR 5106)-product   date = Thu 16 Oct 2014 03:53:38 PM PDT
+Cmp-Mod V01 Created by Cvpcb (2014-08-29 BZR 5106)-product   date = Fri 17 Oct 2014 03:10:25 PM PDT
 
 BeginCmp
 TimeStamp = /54409983;
@@ -158,7 +158,7 @@ BeginCmp
 TimeStamp = /54404D2A;
 Reference = SILK1;
 ValeurCmp = logo;
-IdModule  = parts:TESSEL-HEXAGON-LOGO;
+IdModule  = parts:TESSEL-HEXAGON-LOGO-BACK;
 EndCmp
 
 EndListe

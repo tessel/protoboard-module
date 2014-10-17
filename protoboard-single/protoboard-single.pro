@@ -1,4 +1,4 @@
-update=Fri 17 Oct 2014 02:17:36 PM PDT
+update=Fri 17 Oct 2014 03:09:34 PM PDT
 version=1
 last_client=kicad
 [cvpcb]
@@ -41,8 +41,6 @@ LibName28=atmel
 LibName29=contrib
 LibName30=valves
 LibName31=parts
-[general]
-version=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
@@ -63,3 +61,5 @@ SolderMaskMinWidth=0
 DrawSegmentWidth=0.2
 BoardOutlineThickness=0.09999999999999999
 ModuleOutlineThickness=0.15
+[general]
+version=1
