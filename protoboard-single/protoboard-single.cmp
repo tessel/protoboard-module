@@ -1,131 +1,115 @@
-Cmp-Mod V01 Genere par PcbNew le Mon 03 Nov 2014 02:24:45 PM PST
+Cmp-Mod V01 Created by Cvpcb (2014-08-29 BZR 5106)-product   date = Mon 03 Nov 2014 03:29:55 PM PST
 
 BeginCmp
-TimeStamp = 544170C8
-Path = /540E8D3F
-Reference = SILK1;
-ValeurCmp = logo;
-IdModule  = parts:TESSEL-HEXAGON-LOGO-BACK;
-EndCmp
-
-BeginCmp
-TimeStamp = 5457F5B4
-Path = /540E6C30
+TimeStamp = /540E6C30;
 Reference = J1;
 ValeurCmp = MODULE_HEADER;
 IdModule  = parts:MODULE_HEADER_MODULE_BIG;
 EndCmp
 
 BeginCmp
-TimeStamp = 5457F676
-Path = /540E87DE
-Reference = J15;
+TimeStamp = /540E7CB6;
+Reference = J2;
 ValeurCmp = MODULE_HEADER;
 IdModule  = parts:1x10_BIG;
 EndCmp
 
 BeginCmp
-TimeStamp = 5457F669
-Path = /540E8463
-Reference = J14;
-ValeurCmp = MODULE_HEADER;
-IdModule  = parts:1x10_BIG;
-EndCmp
-
-BeginCmp
-TimeStamp = 5457F65C
-Path = /540E81AD
-Reference = J13;
-ValeurCmp = MODULE_HEADER;
-IdModule  = parts:1x10_BIG;
-EndCmp
-
-BeginCmp
-TimeStamp = 5457F64F
-Path = /540E7481
-Reference = J12;
-ValeurCmp = MODULE_HEADER;
-IdModule  = parts:1x10_BIG;
-EndCmp
-
-BeginCmp
-TimeStamp = 5457F642
-Path = /540E747B
-Reference = J11;
-ValeurCmp = MODULE_HEADER;
-IdModule  = parts:1x10_BIG;
-EndCmp
-
-BeginCmp
-TimeStamp = 5457F635
-Path = /540E7475
-Reference = J10;
-ValeurCmp = MODULE_HEADER;
-IdModule  = parts:1x10_BIG;
-EndCmp
-
-BeginCmp
-TimeStamp = 5457F628
-Path = /540E746F
-Reference = J9;
-ValeurCmp = MODULE_HEADER;
-IdModule  = parts:1x10_BIG;
-EndCmp
-
-BeginCmp
-TimeStamp = 5457F61B
-Path = /540E72B4
-Reference = J8;
-ValeurCmp = MODULE_HEADER;
-IdModule  = parts:1x10_BIG;
-EndCmp
-
-BeginCmp
-TimeStamp = 5457F60E
-Path = /540E72AE
-Reference = J7;
-ValeurCmp = MODULE_HEADER;
-IdModule  = parts:1x10_BIG;
-EndCmp
-
-BeginCmp
-TimeStamp = 5457F601
-Path = /540E7221
-Reference = J6;
-ValeurCmp = MODULE_HEADER;
-IdModule  = parts:1x10_BIG;
-EndCmp
-
-BeginCmp
-TimeStamp = 5457F5F4
-Path = /540E71D1
-Reference = J5;
-ValeurCmp = MODULE_HEADER;
-IdModule  = parts:1x10_BIG;
-EndCmp
-
-BeginCmp
-TimeStamp = 5457F5E7
-Path = /540E7CC2
-Reference = J4;
-ValeurCmp = MODULE_HEADER;
-IdModule  = parts:1x10_BIG;
-EndCmp
-
-BeginCmp
-TimeStamp = 5457F5DA
-Path = /540E7CBC
+TimeStamp = /540E7CBC;
 Reference = J3;
 ValeurCmp = MODULE_HEADER;
 IdModule  = parts:1x10_BIG;
 EndCmp
 
 BeginCmp
-TimeStamp = 5457F5CD
-Path = /540E7CB6
-Reference = J2;
+TimeStamp = /540E7CC2;
+Reference = J4;
 ValeurCmp = MODULE_HEADER;
 IdModule  = parts:1x10_BIG;
+EndCmp
+
+BeginCmp
+TimeStamp = /540E71D1;
+Reference = J5;
+ValeurCmp = MODULE_HEADER;
+IdModule  = parts:1x10_BIG;
+EndCmp
+
+BeginCmp
+TimeStamp = /540E7221;
+Reference = J6;
+ValeurCmp = MODULE_HEADER;
+IdModule  = parts:1x10_BIG;
+EndCmp
+
+BeginCmp
+TimeStamp = /540E72AE;
+Reference = J7;
+ValeurCmp = MODULE_HEADER;
+IdModule  = parts:1x10_BIG;
+EndCmp
+
+BeginCmp
+TimeStamp = /540E72B4;
+Reference = J8;
+ValeurCmp = MODULE_HEADER;
+IdModule  = parts:1x10_BIG;
+EndCmp
+
+BeginCmp
+TimeStamp = /540E746F;
+Reference = J9;
+ValeurCmp = MODULE_HEADER;
+IdModule  = parts:1x10_BIG;
+EndCmp
+
+BeginCmp
+TimeStamp = /540E7475;
+Reference = J10;
+ValeurCmp = MODULE_HEADER;
+IdModule  = parts:1x10_BIG;
+EndCmp
+
+BeginCmp
+TimeStamp = /540E747B;
+Reference = J11;
+ValeurCmp = MODULE_HEADER;
+IdModule  = parts:1x10_BIG;
+EndCmp
+
+BeginCmp
+TimeStamp = /540E7481;
+Reference = J12;
+ValeurCmp = MODULE_HEADER;
+IdModule  = parts:1x10_BIG;
+EndCmp
+
+BeginCmp
+TimeStamp = /540E81AD;
+Reference = J13;
+ValeurCmp = MODULE_HEADER;
+IdModule  = parts:1x10_BIG;
+EndCmp
+
+BeginCmp
+TimeStamp = /540E8463;
+Reference = J14;
+ValeurCmp = MODULE_HEADER;
+IdModule  = parts:1x10_BIG;
+EndCmp
+
+BeginCmp
+TimeStamp = /540E87DE;
+Reference = J15;
+ValeurCmp = MODULE_HEADER;
+IdModule  = parts:1x10_BIG;
+EndCmp
+
+BeginCmp
+TimeStamp = /540E8D3F;
+Reference = SILK1;
+ValeurCmp = logo;
+IdModule  = parts:TESSEL-HEXAGON-LOGO-BACK;
 EndCmp
 
 EndListe
